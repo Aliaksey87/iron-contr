@@ -1,4 +1,4 @@
-# soldering-iron-controller
+# Soldering iron controller
 controller for soldering iron on arduino nano
 ![circuit](https://user-images.githubusercontent.com/53950388/132259680-e6848379-1e6c-4fa6-a554-8de42274198d.jpg)
 ![moc3063](https://user-images.githubusercontent.com/53950388/132259761-2bee01f6-f23c-4819-9ae7-e87ee9eb6365.jpg)
