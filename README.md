@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=hDxlYdVfry4&t=195s&ab_channel=%D0%90%D0%BB%D0%B5
 The video demonstrates the process of assembling a PID controller for a soldering iron.
 Description of the components. And at the end of the video, an in-depth demonstration of the temperature change on the device screen.
 
-What is a PID controller: https://ru.wikipedia.org/wiki/%D0%9F%...
+What is a PID controller: https://ru.wikipedia.org/wiki/%D0%9F%D0%98%D0%94-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80
 
 Implemented functions:
   - enable / disable the operation of the regulator.
@@ -23,7 +23,7 @@ The link below is an archive with firmware for arduino:
   - electrical diagram of the entire project.
  
 Link to project files:
-https://1drv.ms/u/s!Ak4t8ud0Q2W6hJwTP...
+https://1drv.ms/u/s!Ak4t8ud0Q2W6hJwTPu0SYuNhooABmA?e=aOwCLH
 
 Easyeda triac solid state relay circuit:
 https://oshwlab.com/Aliaksey.1987/moc3063
