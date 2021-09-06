@@ -1,5 +1,6 @@
 # Soldering iron controller
-Controller for soldering iron on arduino 328p nano.
+## Controller for soldering iron on arduino 328p nano.##
+
 
 
 ![circuit](https://user-images.githubusercontent.com/53950388/132259680-e6848379-1e6c-4fa6-a554-8de42274198d.jpg)
