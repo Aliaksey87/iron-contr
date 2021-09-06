@@ -1,28 +1,29 @@
 # soldering-iron-controller
 controller for soldering iron on arduino nano
 
+https://www.youtube.com/watch?v=hDxlYdVfry4&t=195s&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%D0%A2%D0%B8%D1%83%D0%BD%D1%87%D0%B8%D0%BA
 
-В ролике демонстрируется процесс сборки ПИД-регулятора для паяльника.
-Описание компонентов. И в конце видеоролика укоренная демонстрация изменения температуры на экране устройства.
+The video demonstrates the process of assembling a PID controller for a soldering iron.
+Description of the components. And at the end of the video, an in-depth demonstration of the temperature change on the device screen.
 
-Что такое ПИД-регулятор: https://ru.wikipedia.org/wiki/%D0%9F%...
+What is a PID controller: https://ru.wikipedia.org/wiki/%D0%9F%...
 
-Реализованные функции:
- - включить/выключить работу регулятора.
- - изменить контрольную температуру.
- - изменить пропорциональный, интегральный и дифференцирующий коэффициенты.
- - все параметры сохранятся в энергонезависимой памяти и не сбрасываются после 
-возобновления питания устройства.
- - если оставаться долго в каком-либо из пунктов меню, то меню вернётся через 5 секунд в первоначальное состояние.
- - светодиод для индикации нагрева паяльника.
+Implemented functions:
+  - enable / disable the operation of the regulator.
+  - change the control temperature.
+  - change the proportional, integral and differentiating coefficients of the controller.
+  - all parameters are saved in non-volatile memory and are not reset after
+power on the device again.
+  - if you stay for a long time in any of the menu items, the menu will return after 5 seconds to its original state.
+  - LED to indicate heating of the soldering iron.
  
-По ссылке ниже архив с прошивками для arduino:
- - прошивка для тестирования двухстрочного дисплея.
- - основная прошивка ПИД-регулятора.
- - электрическая схема всего проекта.
+The link below is an archive with firmware for arduino:
+  - firmware for testing a two-line display.
+  - the main firmware of the PID controller.
+  - electrical diagram of the entire project.
  
-Ссылка на файлы проекта:
+Link to project files:
 https://1drv.ms/u/s!Ak4t8ud0Q2W6hJwTP...
 
-Схема симисторного твёрдотельного реле в easyeda:
+Easyeda triac solid state relay circuit:
 https://oshwlab.com/Aliaksey.1987/moc...
