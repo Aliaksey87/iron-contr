@@ -1,6 +1,7 @@
 # soldering-iron-controller
 controller for soldering iron on arduino nano
 ![circuit](https://user-images.githubusercontent.com/53950388/132259680-e6848379-1e6c-4fa6-a554-8de42274198d.jpg)
+![moc3063](https://user-images.githubusercontent.com/53950388/132259761-2bee01f6-f23c-4819-9ae7-e87ee9eb6365.jpg)
 
 https://www.youtube.com/watch?v=hDxlYdVfry4&t=195s&ab_channel=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%D0%A2%D0%B8%D1%83%D0%BD%D1%87%D0%B8%D0%BA
 
